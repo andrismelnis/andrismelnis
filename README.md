@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrismelnis
-- 👀 I’m interested in web development
+- 👀 I’m interested in QA
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me melnis.andris87@gmail.com or +37126033778
